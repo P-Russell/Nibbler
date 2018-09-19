@@ -1,5 +1,7 @@
 # Nibbler
 
+This project was a colloboration between myself and Leslie De Jager https://github.com/ZimboPro
+
 A basic snake game that uses  different graphic libraries.
 
 ---
